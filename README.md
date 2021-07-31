@@ -8,3 +8,4 @@ Learned:
 * Use props
 * React router
 * Create fake API from json-server
+* JSX
