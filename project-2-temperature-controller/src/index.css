@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+/* core style */
+body {
+  margin: 0;
+  font-family: 'Press Start 2P', cursive;
+  box-sizing: border-box;
+  background-color: #eee;
+}
+
+.main-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+}
+
+/* remote control body */
+.remote-control-body{
+  height: 400px;
+  width: 300px;
+  background-color: #C4C4C4;
+  box-shadow: 10px 10px 0px 2px rgba(0, 0, 0, 0.73);
+  border-radius: 37px;
+  overflow: hidden;
+  padding: 0.2em 2.2em 1em;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+/* screen */
+div.screen{
+  width: auto;
+  height: 220px;
+  /* background: #CAE6FF; */
+  /* background-color: #838383; */
+  box-shadow: inset 0px 0px 6px rgba(0, 0, 0, 0.63), inset 2px 4px 4px rgba(0, 0, 0, 0.49);
+  border-radius: 28px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: background 0.8s;
+}
+
+div.screen h2{
+  font-size: 2em;
+}
+
+.hide{
+  display: none;
+}
+
+.show{
+  display: block;
+}
+
+/* buttons */
+.control-btn{
+  display: flex;
+  justify-content: space-between;
+}
+
+.mode , .decrease-btn , .increase-btn{
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+}
+
+.decrease-btn , .increase-btn{
+  font-size: 2.5em;
+}
+
+
+
