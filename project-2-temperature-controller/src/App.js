@@ -18,6 +18,7 @@ function App() {
       } else {
         setMode('hide')
         setTimeout(() => {
+          setState(16)
           setTempColor('#838383')
         }, 500)
       }
