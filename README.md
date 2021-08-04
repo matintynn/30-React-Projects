@@ -17,7 +17,7 @@ Code link:
 [project code]()
 </br>
 Live link:
-[temperature controller]()
+[Sailor Blog]()
 
 ### Project 2 - Temperature controller
 Code link:
@@ -31,6 +31,6 @@ Code link:
 [project code](https://replit.com/@SalanLee/Basic-Form-1#src/App.js)
 </br>
 Live link:
-[temperature controller](https://basic-form-1.salanlee.repl.co/)
+[Basic Form](https://basic-form-1.salanlee.repl.co/)
 
 ### Project 4 -
