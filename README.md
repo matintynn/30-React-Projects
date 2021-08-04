@@ -9,8 +9,7 @@ Learned:
 * Create fake API from json-server
 * JSX
 
-</br>
-===
+---
 
 ### Project 1 - Sailor Blog
 Code link:
