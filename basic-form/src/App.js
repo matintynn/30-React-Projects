@@ -22,6 +22,7 @@ function App() {
   const submitHandle = (event) => {
     setIsPending(true);
     event.preventDefault();
+    // setTimeout for mock-up/ real world POST data to database
     setTimeout(() => {
       setIsPending(false);
       setIsSubmited(true);
