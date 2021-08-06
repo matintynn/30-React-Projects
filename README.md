@@ -34,7 +34,9 @@ Live link:
 
 ### Project 4 - Notes app
 Code link:
-[project code]()
+[project code](https://replit.com/@SalanLee/Notes-app#src/components/NotesList.js)
 </br>
 Live link:
-[Basic Form]()
+[Basic Form](https://notes-app.salanlee.repl.co/)
+
+### Project 5 - 
