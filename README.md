@@ -37,6 +37,6 @@ Code link:
 [project code](https://replit.com/@SalanLee/Notes-app#src/components/NotesList.js)
 </br>
 Live link:
-[Basic Form](https://notes-app.salanlee.repl.co/)
+[Notes app](https://notes-app.salanlee.repl.co/)
 
 ### Project 5 - 
