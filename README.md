@@ -39,4 +39,9 @@ Code link:
 Live link:
 [Notes app](https://notes-app.salanlee.repl.co/)
 
-### Project 5 - 
+### Project 5 - Fruit Calorie Calculator
+Code link:
+[project code]()
+</br>
+Live link:
+[Fruit Calorie Calculator]()
