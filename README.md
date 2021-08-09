@@ -44,4 +44,4 @@ Code link:
 [project code](https://github.com/matintynn/30-React-Projects/tree/project-5-calorie-calculator/calorie-calculator)
 </br>
 Live link:
-[Fruit Calorie Calculator](https://replit.com/@SalanLee/Fruit-Calorie-Calculator#src/components/FruitDetail.js)
+[Fruit Calorie Calculator](https://fruit-calorie-calculator.salanlee.repl.co/)
