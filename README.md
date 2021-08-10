@@ -45,3 +45,5 @@ Code link:
 </br>
 Live link:
 [Fruit Calorie Calculator](https://fruit-calorie-calculator.salanlee.repl.co/)
+
+### Project 6
