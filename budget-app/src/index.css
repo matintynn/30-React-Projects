@@ -1,0 +1,58 @@
+.rounded-corner{
+    border-radius: 0 0 80px;
+}
+
+.bg-icons{
+    background: rgb(223, 246, 255);
+    padding: 8px;
+    border-radius: 50%;
+}
+
+.budget-danger{
+    color: rgb(254, 78, 47);
+    background: rgb(255, 247, 245);
+    border: 2px solid tomato;
+}
+
+.icon-bg-danger{
+    background: rgb(255, 227, 222);
+    padding: 8px;
+    border-radius: 50%;
+}
+
+.icon-danger{
+    color: rgb(254, 78, 47);
+}
+
+.custom-input{
+    border: none;
+    outline: none;
+    width: 100%;
+    margin-left: 6px;
+}
+
+.icon-btn{ 
+    cursor: pointer;
+}
+
+.icon-btn:hover{
+    color: rgb(227, 71, 71);
+}
+
+.list:hover{
+    background: #CFE2FF;
+    color: #0A58CA;
+}
+
+.add-expense{
+    margin: 4.2em 0;
+}
+
+.btn-save{
+    width: 100%;
+    border-radius: 5px;
+    border: 1px solid rgb(203, 203, 203);
+    background: white;
+    outline: none;
+    padding: 6px 0;
+}
