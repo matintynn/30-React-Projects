@@ -51,6 +51,6 @@ Code link:
 [project code](https://github.com/matintynn/30-React-Projects/tree/project-6-budget-app)
 </br>
 Live link:
-[Fruit Calorie Calculator](https://budget-app-2.salanlee.repl.co/)
+[Budget app](https://budget-app-2.salanlee.repl.co/)
 
 ### Project 7 - Movie app
