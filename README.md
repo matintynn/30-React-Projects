@@ -53,4 +53,4 @@ Code link:
 Live link:
 [Fruit Calorie Calculator](https://budget-app-2.salanlee.repl.co/)
 
-### Project 7
+### Project 7 - Movie app
