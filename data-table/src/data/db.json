@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "fullName": "Jeff Lorne",
+        "address": "34 waterfall road",
+        "phoneNumber": "431-432-5336",
+        "email": "jeff.lorne@email.com"
+    },
+    {
+        "id": 2,
+        "fullName": "Jessica lopez",
+        "address": "9 Halinton town",
+        "phoneNumber": "287-241-7346",
+        "email": "jessica.lopez@email.com"
+    },
+    {
+        "id": 3,
+        "fullName": "John Frank",
+        "address": "17 manor road",
+        "phoneNumber": "798-242-7516",
+        "email": "john.frank@email.com"
+    },
+    {
+        "id": 4,
+        "fullName": "Jenny Chan",
+        "address": "93 miltown lola",
+        "phoneNumber": "431-961-168",
+        "email": "jenny.chan@email.com"
+    },
+    {
+        "id": 5,
+        "fullName": "Kinmond Edwards",
+        "address": "29 Ocean Acres",
+        "phoneNumber": "456-962-7516",
+        "email": "kinmond.ed@email.com"
+    }
+]
