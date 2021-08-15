@@ -62,7 +62,7 @@ Live link:
 
 # Project 7 - Favorite Movie App
 Code link:
-[project code]()
+[project code](https://github.com/matintynn/30-React-Projects/tree/project-7-data-table)
 </br>
 Live link:
 [table data]()
