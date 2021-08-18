@@ -62,7 +62,7 @@ Live link:
 
 ### Project 8 - Favorite Movie App
 Code link:
-[project code](https://github.com/matintynn/30-React-Projects/tree/project-7-data-table)
+[project code](https://github.com/matintynn/30-React-Projects/tree/project-8-movie-search-app)
 </br>
 Live link:
-[table data]()
+[Favorite Movie App](https://movie-search-app.salanlee.repl.co/)
