@@ -66,3 +66,10 @@ Code link:
 </br>
 Live link:
 [Favorite Movie App](https://movie-search-app.salanlee.repl.co/)
+
+### Project 9 - Box-shadow generator
+Code link:
+[project code](https://github.com/matintynn/30-React-Projects/tree/project-9-boxshadow-generator/boxshadow-generator)
+</br>
+Live link:
+[Favorite Movie App](https://box-shadow-generator.salanlee.repl.co/)
