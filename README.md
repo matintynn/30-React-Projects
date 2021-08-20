@@ -72,4 +72,4 @@ Code link:
 [project code](https://github.com/matintynn/30-React-Projects/tree/project-9-boxshadow-generator/boxshadow-generator)
 </br>
 Live link:
-[Favorite Movie App](https://box-shadow-generator.salanlee.repl.co/)
+[box-shadow generator](https://box-shadow-generator.salanlee.repl.co/)
