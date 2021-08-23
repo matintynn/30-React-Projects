@@ -78,3 +78,7 @@ Live link:
 ### Project 10 - Mapbox (Airport map)
 Code link:
 [project code](https://github.com/matintynn/30-React-Projects/tree/project-10-airport-map/airport-map)
+
+### Project 11 - Image slider
+Code link:
+[project code](https://github.com/matintynn/30-React-Projects/tree/project-11-react-slider/react-slider)
