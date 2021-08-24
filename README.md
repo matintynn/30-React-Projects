@@ -96,3 +96,10 @@ Code link:
 </br>
 Live link:
 [Accordion](https://accordion.salanlee.repl.co/)
+
+### Project 14 - Navbar & Footer
+Code link:
+[project code]()
+</br>
+Live link:
+[Navbar & Footer]()
