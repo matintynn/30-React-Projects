@@ -15,7 +15,7 @@ const Create = () => {
         setIsPending(true);
         // use setTimeout to see/check if the loading button is workiing :)
         setTimeout(() => {
-            fetch("http://localhost:8000/blogs", {
+            fetch("http://localhost:3000/blogs", {
                 method: "POST",
                 headers: { "content-type": "application/json" },
                 body: JSON.stringify(blog)

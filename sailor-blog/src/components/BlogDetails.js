@@ -4,12 +4,12 @@ import useFetch from "./useFetch";
 const BlogDetails = () => {
     // use react hook useParams, this allows to grab parameter from the route (url)
     const { id } = useParams();
-    const { data: blog, isPending, error } = useFetch("http://localhost:8000/blogs/" + id);
+    const { data: blog, isPending, error } = useFetch("http://localhost:3000/blogs/" + id);
     const history = useHistory();
 
     const deleteHandle = () => {
         console.log("hi")
-        fetch("http://localhost:8000/blogs/" + id, {
+        fetch("http://localhost:3000/blogs/" + id, {
             method: "DELETE"
         }).then(() => {
             history.push("/");
