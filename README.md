@@ -11,7 +11,7 @@ Learned:
 
 ---
 
-### Project 1 - Sailor Blog
+### Project 1 - Todo app
 Code link:
 [project code]()
 </br>
@@ -25,7 +25,7 @@ Code link:
 Live link:
 [temperature controller](https://temperature-controller.salanlee.repl.co/)
 
-### Project 3 - Basic Form
+### Project 3 - Form Validation
 Code link:
 [project code](https://replit.com/@SalanLee/Basic-Form-1#src/App.js)
 </br>
@@ -53,7 +53,7 @@ Code link:
 Live link:
 [Budget app](https://budget-app-2.salanlee.repl.co/)
 
-### Project 7 - Table contact
+### Project 7 - cryptocurrency finance
 Code link:
 [project code]()
 </br>
@@ -89,3 +89,10 @@ Code link:
 </br>
 Live link:
 [popup modal](https://Popup-modal.salanlee.repl.co)
+
+### Project 13 - Accordion
+Code link:
+[project code]()
+</br>
+Live link:
+[Accordion]()
