@@ -82,3 +82,10 @@ Code link:
 ### Project 11 - Image slider
 Code link:
 [project code](https://github.com/matintynn/30-React-Projects/tree/project-11-react-slider/react-slider)
+
+### Project 12 - Popup modal
+Code link:
+[project code](https://github.com/matintynn/30-React-Projects/tree/project-12-popup-modal/popup-modal)
+</br>
+Live link:
+[popup modal]()
