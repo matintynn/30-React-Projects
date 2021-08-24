@@ -1,69 +1,80 @@
 import { useState } from "react"
 
 function App() {
-  const [values, setValues] = useState({
-    name: '',
-    nickName: '',
-    email: ''
-  });
-  const [isPending, setIsPending] = useState(false)
-  const [isSubmited, setIsSubmited] = useState(false)
-
-  const changeHandle = (event) => {
-    if (event.target.name === "name") {
-      setValues({ ...values, name: event.target.value })
-    } else if (event.target.name === "nickName") {
-      setValues({ ...values, nickName: event.target.value })
-    } else {
-      setValues({ ...values, email: event.target.value })
-    }
-  }
-
-  const submitHandle = (event) => {
-    setIsPending(true);
-    event.preventDefault();
-    // setTimeout for mock-up/ real world POST data to database
-    setTimeout(() => {
-      setIsPending(false);
-      setIsSubmited(true);
-    }, 1000)
-  }
 
   return (
     <div className="App">
-      <div className="container">
-        <h2>JOIN OUR COMMUNITY</h2>
-        <form onSubmit={(e) => submitHandle(e)}>
-          <input
-            name="name"
-            type="text"
-            placeholder="Your full name"
-            value={values.name}
-            onChange={(e) => changeHandle(e)}
-            required
-          />
-          <input
-            name="nickName"
-            type="text"
-            placeholder="Prefer name"
-            value={values.nickName}
-            onChange={(e) => changeHandle(e)}
-          />
-          <input
-            name="email"
-            type="text"
-            placeholder="Your email"
-            value={values.email}
-            onChange={(e) => changeHandle(e)}
-            required
-          />
-          {/* {isPending && <button>SENDING ...</button>}
-          {!isPending && <button>JOIN NOW</button>} */}
-          {isSubmited ? <button style={{ backgroundColor: "#0DB952" }}>SUBMITED!</button> : isPending ? <button>SENDING ...</button> : <button>JOIN NOW</button>}
-        </form>
-      </div>
+      <h1>form validation project</h1>
     </div>
   );
 }
 
 export default App;
+
+
+// the old basic form project
+// function App() {
+//   const [values, setValues] = useState({
+//     name: '',
+//     nickName: '',
+//     email: ''
+//   });
+//   const [isPending, setIsPending] = useState(false)
+//   const [isSubmited, setIsSubmited] = useState(false)
+
+//   const changeHandle = (event) => {
+//     if (event.target.name === "name") {
+//       setValues({ ...values, name: event.target.value })
+//     } else if (event.target.name === "nickName") {
+//       setValues({ ...values, nickName: event.target.value })
+//     } else {
+//       setValues({ ...values, email: event.target.value })
+//     }
+//   }
+
+//   const submitHandle = (event) => {
+//     setIsPending(true);
+//     event.preventDefault();
+//     // setTimeout for mock-up/ real world POST data to database
+//     setTimeout(() => {
+//       setIsPending(false);
+//       setIsSubmited(true);
+//     }, 1000)
+//   }
+
+//   return (
+//     <div className="App">
+//       <div className="container">
+//         <h2>JOIN OUR COMMUNITY</h2>
+//         <form onSubmit={(e) => submitHandle(e)}>
+//           <input
+//             name="name"
+//             type="text"
+//             placeholder="Your full name"
+//             value={values.name}
+//             onChange={(e) => changeHandle(e)}
+//             required
+//           />
+//           <input
+//             name="nickName"
+//             type="text"
+//             placeholder="Prefer name"
+//             value={values.nickName}
+//             onChange={(e) => changeHandle(e)}
+//           />
+//           <input
+//             name="email"
+//             type="text"
+//             placeholder="Your email"
+//             value={values.email}
+//             onChange={(e) => changeHandle(e)}
+//             required
+//           />
+//           {/* {isPending && <button>SENDING ...</button>}
+//           {!isPending && <button>JOIN NOW</button>} */}
+//           {isSubmited ? <button style={{ backgroundColor: "#0DB952" }}>SUBMITED!</button> : isPending ? <button>SENDING ...</button> : <button>JOIN NOW</button>}
+//         </form>
+//       </div>
+//     </div>
+//   );
+// }
