@@ -99,7 +99,7 @@ Live link:
 
 ### Project 14 - Navbar & Footer
 Code link:
-[project code]()
+[project code](https://github.com/matintynn/30-React-Projects/tree/project-14-navbar-footer/navbar-footer)
 </br>
 Live link:
 [Navbar & Footer]()
