@@ -109,4 +109,4 @@ Code link:
 [project code]()
 </br>
 Live link:
-[Navbar & Footer]()
+[Sidebar](https://sidebar.salanlee.repl.co)
