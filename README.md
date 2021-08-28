@@ -106,7 +106,7 @@ Live link:
 
 ### Project 15 - Sidebar navigation
 Code link:
-[project code]()
+[project code](https://github.com/matintynn/30-React-Projects/tree/project-15-sidebar-dropdown/sidebar)
 </br>
 Live link:
 [Sidebar](https://sidebar.salanlee.repl.co)
