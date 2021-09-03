@@ -117,3 +117,10 @@ Code link:
 </br>
 Live link:
 [e]()
+
+### Project 17 - Simple online store
+Code link:
+[project code]()
+</br>
+Live link:
+[e]()
