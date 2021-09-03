@@ -111,7 +111,7 @@ Code link:
 Live link:
 [Sidebar](https://sidebar.salanlee.repl.co)
 
-### Project 16 - 
+### Project 16 - Cake & Ice-creame Redux
 Code link:
 [project code]()
 </br>
