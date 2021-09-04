@@ -116,7 +116,7 @@ Code link:
 [project code](https://github.com/matintynn/30-React-Projects/tree/project-16-cake-icecream-redux/cake-icecream)
 </br>
 Live link:
-[Redux project](https://cake-ice-cream-redux.salanlee.repl.co)
+[Cake & Ice-cream Redux](https://cake-ice-cream-redux.salanlee.repl.co)
 
 ### Project 17 - Simple online store
 Code link:
