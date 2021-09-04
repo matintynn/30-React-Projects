@@ -113,14 +113,14 @@ Live link:
 
 ### Project 16 - Cake & Ice-creame Redux
 Code link:
-[project code]()
+[project code](https://github.com/matintynn/30-React-Projects/tree/project-16-cake-icecream-redux/cake-icecream)
 </br>
 Live link:
-[e]()
+[Redux project](https://cake-ice-cream-redux.salanlee.repl.co)
 
 ### Project 17 - Simple online store
 Code link:
 [project code]()
 </br>
 Live link:
-[e]()
+[Simple online store]()
