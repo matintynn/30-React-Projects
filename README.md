@@ -118,9 +118,9 @@ Code link:
 Live link:
 [Cake & Ice-cream Redux](https://cake-ice-cream-redux.salanlee.repl.co)
 
-### Project 17 - Simple online store
+### Project 17 - Online store
 Code link:
-[project code]()
+[project code](https://github.com/matintynn/30-React-Projects/tree/project-17-online-shop)
 </br>
 Live link:
-[Simple online store]()
+[Online store](https://online-store.salanlee.repl.co/)
