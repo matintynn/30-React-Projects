@@ -4,7 +4,7 @@ This repo includes 30 mini React projects. I made these projects for my learning
 ### Goal:
 To learn React & its libraries
 
-Learned:
+### Learned:
 * React Hooks
 * Custom React Hook
 * Use props
