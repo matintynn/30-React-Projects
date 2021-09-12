@@ -1,6 +1,9 @@
 # 30-React-Projects
 This repo includes 30 mini React projects. I made these projects for my learning React.
 
+### Goal:
+To learn React & its libraries
+
 Learned:
 * React Hooks
 * Custom React Hook
