@@ -1,5 +1,5 @@
 # 30-React-Projects
-This repo includes 30 mini React projects.
+This repo includes 30 mini React projects. I made these projects for my learning React.
 
 Learned:
 * React Hooks
