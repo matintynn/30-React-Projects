@@ -124,3 +124,10 @@ Code link:
 </br>
 Live link:
 [Online store](https://online-store.salanlee.repl.co/)
+
+### Project 18 - Pokecard Redux
+Code link:
+[project code]()
+</br>
+Live link:
+[Pokecard Redux](https://pokemon-redux.salanlee.repl.co/)
