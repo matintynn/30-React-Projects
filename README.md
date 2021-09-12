@@ -131,3 +131,17 @@ Code link:
 </br>
 Live link:
 [Pokecard Redux](https://pokemon-redux.salanlee.repl.co/)
+
+### Project 19 - ...
+Code link:
+[project code]()
+</br>
+Live link:
+[Sailor Blog]()
+
+### Project 20 - ...
+Code link:
+[project code]()
+</br>
+Live link:
+[Sailor Blog]()
