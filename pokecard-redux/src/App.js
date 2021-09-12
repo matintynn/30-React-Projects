@@ -14,7 +14,6 @@ function App() {
         -<GlobalStyle></GlobalStyle> this won't work
     */}
       <GlobalStyle />
-
       <Router>
         <Header />
         <Switch>
