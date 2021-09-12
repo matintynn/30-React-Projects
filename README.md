@@ -127,7 +127,7 @@ Live link:
 
 ### Project 18 - Pokecard Redux
 Code link:
-[project code]()
+[project code](https://github.com/matintynn/30-React-Projects/tree/project-18-pokecard-redux/pokecard-redux)
 </br>
 Live link:
 [Pokecard Redux](https://pokemon-redux.salanlee.repl.co/)
