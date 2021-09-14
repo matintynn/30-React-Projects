@@ -19,7 +19,8 @@ Code link:
 [project code](https://github.com/matintynn/30-React-Projects/tree/project-1-todo-app/todo-app)
 </br>
 Live link:
-[Todo app](https://todo-app-react.salanlee.repl.co)
+[Todo app](https://todo-app-react.salanlee.repl.co)</br>
+Live link 2: [Backup](https://replit.com/@SalanLee/todo-app-react#.replit)
 
 ### Project 2 - Temperature controller
 Code link:
