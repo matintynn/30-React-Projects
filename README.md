@@ -16,10 +16,10 @@ To learn React & its libraries
 
 ### Project 1 - Todo app
 Code link:
-[project code]()
+[project code](https://github.com/matintynn/30-React-Projects/tree/project-1-todo-app/todo-app)
 </br>
 Live link:
-[Sailor Blog]()
+[Todo app]()
 
 ### Project 2 - Temperature controller
 Code link:
