@@ -62,7 +62,7 @@ Code link:
 [project code]()
 </br>
 Live link:
-[crypto-tracker]()
+[crypto-tracker](https://crypto-tracker.salanlee.repl.co)
 
 ### Project 8 - Favorite Movie App
 Code link:
