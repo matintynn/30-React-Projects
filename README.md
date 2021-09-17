@@ -57,12 +57,12 @@ Code link:
 Live link:
 [Budget app](https://budget-app-2.salanlee.repl.co/)
 
-### Project 7 - cryptocurrency finance
+### Project 7 - cryptocurrency tracker
 Code link:
 [project code]()
 </br>
 Live link:
-[table data]()
+[crypto-tracker]()
 
 ### Project 8 - Favorite Movie App
 Code link:
