@@ -59,7 +59,7 @@ Live link:
 
 ### Project 7 - cryptocurrency tracker
 Code link:
-[project code]()
+[project code](https://github.com/matintynn/30-React-Projects/tree/project-7-cryptocurrency-finance-tracker/crypto-tracker)
 </br>
 Live link:
 [crypto-tracker](https://crypto-tracker.salanlee.repl.co)
