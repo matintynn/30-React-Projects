@@ -31,7 +31,7 @@ Live link:
 
 ### Project 3 - Form Validation
 Code link:
-[project code](https://replit.com/@SalanLee/Basic-Form-1#src/App.js)
+[project code](https://github.com/matintynn/30-React-Projects/tree/project-3-form-validation/basic-form)
 </br>
 Live link:
 [Basic Form](https://validation-form.salanlee.repl.co/)
