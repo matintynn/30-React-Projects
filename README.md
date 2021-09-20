@@ -34,7 +34,7 @@ Code link:
 [project code](https://replit.com/@SalanLee/Basic-Form-1#src/App.js)
 </br>
 Live link:
-[Basic Form](https://basic-form-1.salanlee.repl.co/)
+[Basic Form](https://validation-form.salanlee.repl.co/)
 
 ### Project 4 - Notes app
 Code link:
