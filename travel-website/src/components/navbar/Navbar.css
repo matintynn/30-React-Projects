@@ -1,0 +1,112 @@
+.navbar{
+    background: linear-gradient(144.69deg, #11BADF -15.92%, #16EAC4 117.94%);
+    height: 70px;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    display: flex;
+    font-size: 1.2rem;
+    justify-content: center;
+    align-items: center;
+}
+
+.navbar-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 80px;
+    width: 1200px;
+    padding: 0 1em;
+}
+
+.navbar-logo{
+    color: #fff;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 1.4rem;
+}
+
+.menu-icon{
+    display: block;
+}
+
+.nav-menu{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 90vh;
+    position: absolute;
+    top: 70px;
+    left: -100%;
+    opacity: 0;
+    transition: all 0.4s ease;
+}
+
+.nav-menu.active {
+    background: #1c2527;
+    left: 0;
+    opacity: 1;
+    transition: all 0.4s ease-out;
+    z-index: 1;
+}
+
+.nav-links {
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    width: 100%;
+    text-align: center;
+    padding: 2em;
+    display: block;
+}
+
+.signup-btn{
+    background-color: #fff;
+    color: #262D3A;
+    padding: 1em;
+    border-radius: 4px;
+    text-align: center;
+    font-weight: bold;
+    margin: 0 1em;
+}
+
+@media screen and (min-width: 768px) {
+    .menu-icon{
+        display: none;
+    }
+
+    .nav-menu {
+        position: initial;
+        opacity: 1;
+        height: 70px;
+        display: flex;
+        gap: 10px;
+        flex-direction: row;
+        justify-content: flex-end;
+        align-items: center;
+        margin-right: 2rem;
+        width: 60vw;
+    }
+
+    .nav-links {
+        color: #fff;
+        display: flex;
+        align-items: center;
+        text-decoration: none;
+        padding: 0 1rem;
+        height: 100%;
+        width: auto;
+      }
+      
+      .nav-links:hover {
+        border-bottom: 4px solid #fff;
+        transition: all 0.2s ease-out;
+      }
+
+    .signup-btn{
+        display: none;
+    }
+
+    .nav-menu.active {
+        background: none;
+    } 
+}
