@@ -136,12 +136,12 @@ Code link:
 Live link:
 [Pokecard Redux](https://pokemon-redux.salanlee.repl.co/)
 
-### Project 19 - ...
+### Project 19 - Travel Website
 Code link:
-[project code]()
+[project code](https://github.com/matintynn/30-React-Projects/tree/project-19-travel-website/travel-website)
 </br>
 Live link:
-[Sailor Blog]()
+[Wanderify website]()
 
 ### Project 20 - ...
 Code link:
