@@ -143,7 +143,7 @@ Code link:
 Live link:
 [Wanderify website]()
 
-### Project 20 - ...
+### Project 20 - Banking Website
 Code link:
 [project code]()
 </br>
