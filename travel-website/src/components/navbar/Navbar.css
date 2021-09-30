@@ -1,5 +1,6 @@
 .navbar{
-    background: linear-gradient(144.69deg, #11BADF -15.92%, #16EAC4 117.94%);
+    /* background: linear-gradient(144.69deg, #11BADF -15.92%, #16EAC4 117.94%); */
+    background: transparent;
     height: 70px;
     position: sticky;
     top: 0;
@@ -8,6 +9,11 @@
     font-size: 1.2rem;
     justify-content: center;
     align-items: center;
+    margin-bottom: -100px;
+}
+
+.navbar.active{
+    background: linear-gradient(144.69deg, #11BADF -15.92%, #16EAC4 117.94%);
 }
 
 .navbar-container{

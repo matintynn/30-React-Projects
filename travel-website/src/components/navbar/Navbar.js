@@ -7,6 +7,7 @@ import './Navbar.css'
 const Navbar = () => {
     const [click, setClick] = useState(false)
     const [button, setButton] = useState(true)
+    const [navbar, setNavbar] = useState(false)
 
     const handleClick = () => setClick(!click);
 
@@ -17,17 +18,24 @@ const Navbar = () => {
             setButton(true)
         }
     };
-
-
     useEffect(() => {
         showButton();
     }, []);
-
     window.addEventListener('resize', showButton);
+
+    // change navbar background when scroll
+    const changeBackgroundScroll = () => {
+        if (window.scrollY >= 130) {
+            setNavbar(true)
+        } else {
+            setNavbar(false)
+        }
+    }
+    window.addEventListener('scroll', changeBackgroundScroll)
 
     return (
         <>
-            <div className="navbar">
+            <div className={navbar ? 'navbar active' : 'navbar'}>
                 <div className="navbar-container">
                     <Link to='/' className='navbar-logo'>
                         WANDERIFY.
