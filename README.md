@@ -145,7 +145,7 @@ Live link:
 
 ### Project 20 - Banking Website
 Code link:
-[project code]()
+[project code](https://github.com/matintynn/30-React-Projects/tree/project-20-banking-website/banking-website)
 </br>
 Live link:
 [Sailor Blog]()
