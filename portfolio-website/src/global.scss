@@ -1,0 +1,22 @@
+$mainColor: #ed7c65;
+$lightBg: #F7F7F1;
+$black: #262626;
+$grey: #F7F7F1;
+
+$width: 768px;
+
+@mixin mobile {
+    @media (max-width: #{$width}){
+        @content
+    }
+}
+
+
+*{
+    text-decoration: none;
+}
+
+img{
+    max-width: 100%;
+}
+

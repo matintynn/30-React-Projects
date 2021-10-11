@@ -1,0 +1,108 @@
+@import "../../global.scss";
+
+.works{
+    background: rgb(245, 245, 245);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+
+    .slider{
+        height: 350px;
+        width: 700px;
+        display: flex;
+        margin: 0 auto;
+        // position: absolute;
+        left: 0;
+        box-shadow: 0 6px 20px rgba(56, 125, 255, 0.17);
+        -webkit-filter: drop-shadow(0 6px 20px rgba(56, 125, 255, 0.017));
+        filter: drop-shadow(0 6px 20px rgba(56, 125, 255, 0.017));
+
+        .container{
+            width: 100vw;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            
+
+            .item{
+                width: 700px;
+                height: 100%;
+                background-color: #fff;
+                border-radius: 8px;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+
+                .left{
+                    flex: 4;
+                    height: 100%;
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    padding: 0 10px;
+                    .leftContainer{
+                        width: 90%;
+                        height: 70%;
+                        display: flex;
+                        flex-direction: column;
+                        justify-content: space-between;
+
+                        .imgContainer{
+                            width: 60px;
+                            height: 60px;
+                            border-radius: 50%;
+                            background-color: rgb(255, 221, 218);
+                            display: flex;
+                            align-items: center;
+                            justify-content: center;
+
+                        }
+
+                        h2{
+                            font-size: 20px;
+                        }
+
+                        p{
+                            font-size: 14px;
+                        }
+
+                        span{
+                            font-size: 12px;
+                            font-weight: 600;
+                            text-decoration: underline;
+                        }
+                    }
+                }
+
+                .right{
+                    flex: 8;
+                    height: 100%;
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                    background-color: salmon;
+                    overflow: hidden;
+
+                    img{
+                        // min-height: 100%;
+                        width: 100%;
+                    }
+                }
+            }
+        }
+
+    }
+
+    .prevArrow{
+        position: absolute;
+        left: 100px;
+        cursor: pointer;
+    }
+
+    .nextArrow{
+        position: absolute;
+        right: 100px;
+        cursor: pointer;
+    }
+}

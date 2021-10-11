@@ -1,0 +1,90 @@
+@import "../../global.scss";
+
+.portfolio{
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    @include mobile{
+        gap: 10px; 
+    }  
+
+    h1{
+        font-size: 40px;
+        margin-top: 30px;
+        margin-bottom: 15px;
+
+        @include mobile{
+            font-size: 20px;
+        }
+    }
+
+    ul{
+        margin: 10px;
+        padding: 0;
+        list-style: none;
+        display: flex;
+
+        @include mobile{
+            flex-wrap: wrap;
+        }
+    }
+
+    .container{
+        margin-top: 20px;
+        width: 90%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-wrap: wrap;
+
+        @include mobile{
+            width: 100%;
+        }
+
+        .item {
+            width: 280px;
+            height: 200px;
+            border-radius: 6px;
+            border: 1px solid rgb(225, 225, 225);
+            margin: 10px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: rgb(255, 255, 255);
+            position: relative;
+            overflow: hidden;
+            cursor: pointer;
+            transition: all 1s ease;
+
+            @include mobile{
+                width: 150px;
+                height: 120px;
+            }
+
+            h3{
+                position: absolute;
+                font-size: 20px;
+            }
+
+            img{
+                max-width: 300px;
+                object-fit: cover;
+                z-index: 1;
+            }
+
+            &:hover{
+                background-color: $mainColor;
+
+                img{
+                    opacity: 0.2;
+                    z-index: 0;
+                    transform: scale(1.1);
+                }
+            }
+        }
+
+        
+    }
+}
