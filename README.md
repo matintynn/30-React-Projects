@@ -159,7 +159,7 @@ Live link:
 
 ### Project 22 - Portfolio Website
 Code link:
-[project code]()
+[project code](https://github.com/matintynn/30-React-Projects/tree/project-22-portfolio-website/portfolio-website)
 </br>
 Live link:
 [Portfolio Website]()
