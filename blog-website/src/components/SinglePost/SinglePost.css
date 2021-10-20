@@ -1,0 +1,69 @@
+
+.singlePost{
+    flex: 9;
+}
+
+.singlePostWrapper{
+    padding: 20px;
+    padding-right: 0;
+}
+
+.singlePostImg{
+    width: 100%;
+    height: 300px;
+    border-radius: 5px;
+    object-fit: cover;
+}
+
+.title-container{
+    margin: 20px 0 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.singlePostTitle{
+    text-align: center;
+    font-size: 26px;
+    color: #1E313D;
+}
+
+.singlePostEdit{
+    display: flex;
+    align-items: center;
+}
+
+.singlePostEdit svg{
+    margin-left: 8px;
+    cursor: pointer;
+}
+
+.singlePostEdit svg:first-child:hover{
+    color: teal;
+}
+
+.singlePostEdit svg:last-child:hover{
+    color: tomato;
+}
+
+.singlePostInfo{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 25px;
+    color: #8F9791;
+}
+
+.singlePostAuthor{
+
+}
+
+.singlePostDate{
+
+}
+
+.singlePostWrapper p{
+    font-family: sans-serif;
+    line-height: 1.5;
+    color: rgb(69, 69, 69);
+}

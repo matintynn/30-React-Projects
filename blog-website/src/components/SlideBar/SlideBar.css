@@ -1,0 +1,61 @@
+
+.slidebar{
+   flex: 3;
+   margin: 0 20px;
+   padding: 30px;
+   background-color: #fdfbfb;
+   border-radius: 10px;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+}
+
+.slidebarItem{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
+.slibarTitle{
+    margin: 10px 0;
+    padding: 8px;
+    width: 100%;
+    border-top: 1px solid rgb(215, 213, 213);
+    border-bottom: 1px solid rgb(215, 213, 213);
+    font-size: 14px;
+    color: #1E313D;
+    letter-spacing: 1.2px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.slidebarItem > img{
+    margin-top: 15px;
+}
+
+.slidebarItem > p {
+    padding: 30px;
+    font-family: sans-serif;
+    color: rgb(75, 75, 75);
+}
+
+.slidebarList{
+    
+}
+
+.slidebarListItem{
+    display: inline-block;
+    width: 50%;
+    margin: 10px 0;
+    text-align: center;
+    cursor: pointer;
+    font-family: sans-serif;
+    color: rgb(75, 75, 75);
+}
+
+.slibarSocial svg{
+    font-size: 16px;
+    margin: 5px 5px;
+    cursor: pointer;
+}

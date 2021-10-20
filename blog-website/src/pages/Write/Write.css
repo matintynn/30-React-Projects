@@ -1,0 +1,68 @@
+
+.write{
+    padding-top: 80px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.write img{
+    border-radius: 6px;
+    object-fit: cover;
+    height: 250px;
+    width: 82vw;
+    margin-bottom: 35px;
+}
+
+.writeForm{
+    position: relative;
+    /* background-color: tomato; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 90vw;
+}
+
+.writeFormGroup{
+    /* margin-left: 150px; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.writeFormGroup label svg{
+    color: rgb(125, 125, 125);
+}
+
+.writeInput{
+    font-size: 26px;
+    border: none;
+    padding: 10px;
+    width: 80vw;
+    outline: none;
+}
+
+.writeText{
+    font-size: 18px;
+    padding-left: 25px;
+    height: 90vh;
+}
+
+.writeSubmit{
+    position: absolute;
+    top: 10px;
+    right: 4vw;
+    border: none;
+    outline: none;
+    background-color: #8F9791;
+    color: white;
+    padding: 6px 16px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+textarea{
+    resize: none;
+}
